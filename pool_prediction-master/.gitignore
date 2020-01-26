@@ -1,0 +1,26 @@
+# Idea
+.idea
+*.iml
+*.iws
+/out/
+.idea_modules/
+
+
+# Eclipse
+.project
+.settings
+.eclipse
+.classpath
+.springBeans
+
+# Common
+/logs/
+*/logs/
+/log/
+*/log/
+**/target/
+/nexus-packager/target/
+.DS_Store
+
+
+
